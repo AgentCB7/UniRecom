@@ -16,7 +16,7 @@
         <img src="logo_black.png">
         <nav>
             <ul>
-                <li><a href="#">HOME</a></li>
+                <li><a href="landing.php">HOME</a></li>
                 <li><a href="survey.php">SURVEY</a></li>
                 <li><a href="#query">SEARCH</a></li>
             </ul>
