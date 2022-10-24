@@ -18,7 +18,7 @@
             <ul>
                 <li><a href="landing.php">HOME</a></li>
                 <li><a href="survey.php">SURVEY</a></li>
-                <li><a href="#query">SEARCH</a></li>
+                <li><a href="landing.php#query">SEARCH</a></li>
             </ul>
         </nav>
         <a href="logout_form.php"><button>Logout</button></a>
